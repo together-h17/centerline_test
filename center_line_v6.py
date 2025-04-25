@@ -14,11 +14,8 @@ import pandas as pd
 
 
 # 定義路徑
-root = r'Z:\DATA\13066\GIS_WORK\文淵WORK\99_GIS相關底圖成果'
-# line_path = os.path.join(root, 'J_ROAD.shp')
-line_path = r"Z:\DATA\13066\GIS_WORK\文淵WORK\99_GIS相關底圖成果\U_ROAD_explore.shp"
-# polygon_path = os.path.join(root, 'J_ROADA.shp')
-polygon_path = r"Z:\DATA\13066\GIS_WORK\文淵WORK\99_GIS相關底圖成果\U_ROADA.shp"
+line_path = r"Z:\U_ROAD.shp"
+polygon_path = r"Z:\ROADA.shp"
 
 # output_nearest_points_path = os.path.join(root, 'nearest_points.shp')
 # output_second_nearest_points_path = os.path.join(root, 'second_nearest_points.shp')
